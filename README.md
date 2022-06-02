@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Akshaykumar Gullapalli <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Abhishek Sindam <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
 
-<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. Passionate software engineer, with in depth knowledge of Javascript, NodeJS, ExpressJS and MongoDB, seeking to work with a reputed technology driven firm.</i></h3>
+<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. Passionate software engineer, with in depth knowledge of Javascript and React, seeking to work with a reputed technology driven firm.</i></h3>
 
 
 <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
@@ -31,7 +31,7 @@
   <a title="akshayg2697@gmail.com" href="mailto:akshayg2697@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
 </p>
 
-🎯 Portfolio website:[Portfolio](https://akshaykumar-gullapalli-portfolio.vercel.app/)
+🎯 Portfolio website:[Portfolio](https://abhi-portfolio.vercel.app/)
 <h1>- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓<h1>
 
 <h3>💻 *Things I love*</h3>
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
   </ul>
 
-![Akshaykumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshaykumarG26&theme=dark&show_icons=true)
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiSindam&theme=dark&show_icons=true)
 
 
 
